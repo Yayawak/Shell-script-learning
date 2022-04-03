@@ -1,0 +1,6 @@
+id;name;score;remark
+1;alice;89;good
+2;bob;73;well done
+3;chris;92;very good
+4;dan;100;excellent
+5;eric;80;good

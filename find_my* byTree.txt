@@ -1,0 +1,34 @@
+[01;34m.[00m
+|-- [01;34mShellScriptOptioning[00m
+|-- [01;34mTLDP[00m
+|   `-- [01;34mExercises[00m
+|       |-- [01;34mEx2[00m
+|       |-- [01;34mchap4[00m
+|       `-- [01;34mtime_and_date[00m
+|-- [01;34mbasic_command[00m
+|   `-- [01;34msed[00m
+|       |-- [01;34m1[00m
+|       |-- [01;34m2.\ substition[00m
+|       |-- [01;34m3[00m
+|       `-- [01;34mgrep[00m
+|-- [01;34mlinuxhint\ tutorial[00m
+|   |-- [01;34mApply\ example[00m
+|   |   |-- [01;34mAppendingTextToFile[00m
+|   |   |-- [01;34mParseDate[00m
+|   |   |-- [01;34mTestFileExist[00m
+|   |   `-- [01;34mtest_folder[00m
+|   |-- [01;34mTimingControl[00m
+|   |   `-- [01;34mWait[00m
+|   |-- [01;34md1[00m
+|   |   `-- [01;34mtest_dir[00m
+|   |-- [01;34mfunction_example[00m
+|   |   `-- [01;34mReturningValue[00m
+|   `-- [01;34mloop[00m
+|       |-- myFile1.txt
+|       |-- myFile2.txt
+|       |-- myFile3.txt
+|       |-- myFile4.txt
+|       `-- myFile5.txt
+`-- [01;34mshell\ tutorial[00m
+
+26 directories, 5 files
